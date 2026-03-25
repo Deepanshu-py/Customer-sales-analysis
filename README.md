@@ -37,16 +37,27 @@ The goal is to analyze sales performance, customer behavior, product trends, and
 ## Project Structure
 Deepanshu-py/
 │
+
 ├── Dataset/
+
 │ ├── Orders
+
 │ ├── Customers
+
 │ ├── Products
+
 │ └── Location
+
 │
+
 ├── Customer_Dashboard.png
+
 ├── Sales_Dashboard.png
+
 ├── sales_&_customer.ipynb
+
 ├── Project_report.pdf
+
 └── README.md
 
 ## Dashboard
