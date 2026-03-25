@@ -25,7 +25,7 @@ The goal is to analyze sales performance, customer behavior, product trends, and
 ---
 
 ## Dataset
-- The dataset used in this project is sourced from a YouTube tutorial by Brian.  
+- The dataset used in this project is sourced from a YouTube site-(Data by Brian) .  
 - It includes multiple tables:
   - Orders  
   - Customers  
