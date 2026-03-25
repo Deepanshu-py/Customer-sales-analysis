@@ -61,6 +61,10 @@ Deepanshu-py/
 └── README.md
 
 ## Dashboard
+<img width="1549" height="1034" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/5bcac33d-040b-4a20-a287-331ceedc16da" />
+
+<img width="1573" height="1033" alt="Customer_Dashboard" src="https://github.com/user-attachments/assets/467c69e0-63d6-4b6f-ae41-25f2e6a6e851" />
+
 
 ### Live Dashboard Link
 https://public.tableau.com/views/Sales-Dashboard_17740246158050/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
