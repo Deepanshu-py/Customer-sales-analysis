@@ -1,4 +1,4 @@
-# Retail Sales Data Analysis & Dashboard
+# Sales & Customer Insights Dashboard
 
 ## Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a retail dataset and building interactive dashboards to uncover key business insights.
